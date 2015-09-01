@@ -5,3 +5,8 @@ To devise efficient approaches and tools for detecting ma- licious code in the A
 ## Datasets
 
 We have collected a set of original:piggybacked app pairs, which is currently available under the dataset directory.
+
+1. all-pairs: showing the whole ground truth we build for piggybacked apps.
+2. pairs-with-new-methods: showing the similarity of the pair of apps, where the piggybacked apps have introduced new methods into the original apps.
+
+More things will come soon...
