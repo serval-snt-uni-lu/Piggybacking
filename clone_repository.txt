@@ -1,0 +1,25 @@
+Li et al., An Investigation into the Use of Common Libraries in Android Apps, 2016
+RepDetector, Semantics-based Repackaging Detection for Mobile Apps, 2016
+WuKong, WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection, 2015
+Soh et al., Detecting Clones in Android Applications through Analyzing User Interfaces, 2015
+ResDroid, Towards a scalable resource-driven approach for detecting repackaged android applications., 2014
+Chen et al., Achieving accuracy and scalability simultaneously in detecting application clones on Android markets, 2014
+PLayDrone, A measurement study of Google Play, 2014 (original app set available)
+FSquaDRA, FSquaDRA: fast detection of repackaged applications, 2014
+ViewDroid, ViewDroid: Towards Obfuscation-Resilient Mobile Application Repackaging Detection, 2014
+DroidMarking, Droidmarking: Resilient Software Watermarking for Impeding Android Application Repackaging, 2014
+DroidSim, Detecting Code Reuse in Android Applications Using Component-Based Control Flow Graph, 2014
+AndRadar, AndRadar: Fast Discovery of Android Applications in Alternative Markets, 2014
+Linares-Vasquez et al., Revisiting Android Reuse Studies in the Context of Code Obfuscation and Library Usages, 2014 (original app set available)
+Jung et al., Repackaging Attack on Android Banking Applications and Its Countermeasures, 2013
+Huang et al., A Framework for Evaluating Mobile App Repackaging Detection Algorithms, 2013
+AdDarwin, Scalable semantics-based detection of similar Android applications, 2013
+PiggyApp, Fast, scalable detection of “piggybacked” mobile applications, 2013
+AdRob, AdRob: Examining the Landscape and Impact of Android Application Plagiarism, 2013
+Ruiz et al., A large scale empirical study on software reuse in mobile apps, 2013
+DroidMOSS, Detecting repackaged smartphone applications in third-party Android marketplaces, 2012
+JuxtApp, Juxtapp: a scalable system for detecting code reuse among Android applications, 2012
+DNADroid, Attack of the clones: detecting cloned applications on Android markets, 2012
+Androguard, Android: Static analysis using similarity distance, 2012
+Potharaju et al., Plagiarizing Smartphone Applications: Attack Strategies and Defense Techniques, 2012
+Ruiz et al., Understanding Reuse in the Android Market, 2012 (original app set available)
